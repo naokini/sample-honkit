@@ -1,0 +1,23 @@
+{
+  "name": "sample-honkit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/naokini/sample-honkit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naokini/sample-honkit/issues"
+  },
+  "homepage": "https://github.com/naokini/sample-honkit#readme",
+  "devDependencies": {
+    "honkit": "^3.7.5"
+  }
+}
